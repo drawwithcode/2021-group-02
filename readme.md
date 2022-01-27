@@ -74,7 +74,7 @@ Here if the user hovers with the mouse on the flowers they can visualize the nam
 
 # OUR FLOWER
    
-   ![fiori] (tuttifiori.png)
+   ![tuttifiori](tuttifiori.png)
 
 # TEAM
 Alexandra Chiojdeanu
