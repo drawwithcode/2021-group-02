@@ -72,7 +72,7 @@ and the position of the leaves on the stem.
 Once all the data has been archived the flowers are redrawed in the homepage garden.
 Here if the user hovers with the mouse on the flowers they can visualize the name of the addressee of the flower
 
-# OUR FLOWER
+# OUR FLOWERS
    
    ![tuttifiori](tuttifiori.png)
 
