@@ -1,5 +1,7 @@
 # ARCADIA
 
+![title](title.png)
+
 ## 1. [PROJECT IDEA](#project-idea)
 
 ### a. Theme
