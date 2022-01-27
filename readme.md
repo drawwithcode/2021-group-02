@@ -31,7 +31,7 @@ Alexandra Chiojdeanu, Greta Cozza, Anna Gargantini, Matteo Ligori, Eva Parenti
 # PROJECT IDEA
 
 **THEME**
-The project is inspired by one of VISAP 2020 ‘s themes, the enchantment.
+The project is inspired by one of VISAP 2020‘s themes, the enchantment.
 Whe choose it because it is a really broad topic that leaves space for many different interpretation since it could mean everything: it could be scaled down to the ordinary experience of everyday life, as well as brought to an “higher” more conceptual, poetic level.
 
 **AIM**
@@ -73,3 +73,8 @@ Once all the data has been archived the flowers are redrawed in the homepage gar
 Here if the user hovers with the mouse on the flowers they can visualize the name of the addressee of the flower
 
 # TEAM
+Alexandra Chiojdeanu
+Greta Cozza
+Anna Gargantini
+Matteo Ligori
+Eva Parenti
