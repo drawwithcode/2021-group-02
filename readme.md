@@ -28,22 +28,22 @@
 
 Alexandra Chiojdeanu, Greta Cozza, Anna Gargantini, Matteo Ligori, Eva Parenti
 
-# PROJECT IDEA
+# 🧠PROJECT IDEA
 
 **THEME**
 The project is inspired by one of VISAP 2020‘s themes, the enchantment.
 Whe choose it because it is a really broad topic that leaves space for many different interpretation since it could mean everything: it could be scaled down to the ordinary experience of everyday life, as well as brought to an “higher” more conceptual, poetic level.
 
-**AIM**
+**AIM**💌
 This project aims to allow the user to carve out a moment of recollection in which they can let their feelings flourish by dedicating them to someone.
 
-**CONCEPT**
+**CONCEPT**🦋
 Arcàdia is a place of shelter, a place to live and sing love, even disappointed love.It’s a meditative moment that allows thoughts to flow and feelings to express themselves.Arcàdia is the space where words are free to exist.
 
-**CONTEXT OF USE**
+**CONTEXT OF USE**🛋
 Arcadia is designed to be experienced in the comfort and tranquillity of your home's pc, where noone can hear or disturb you. However, with some adjustement (like for exemple a sound-insulated installation where the user is alone) the experience could be readapted to a exhibition context.
 
-# STRUCTURE
+# 🧬STRUCTURE
 
 The project is composed by multiple HTML pages. The experience can be divided in three main part: a landing page, an homepage and the actual flower creation experience.
 
@@ -55,7 +55,7 @@ The project is composed by multiple HTML pages. The experience can be divided in
 - At first the user needs to say out loud who their message is dedicated to. This information will be saved and appeard in the homepage at a mouse hover.
 - Then, the user can leave their message: according to some parameters (volume, pitch and lenght of the message) a flower grows and changes its appearence, ensuring a unique result.
 
-# CODE
+# 🧑🏻‍💻CODE
 
 **VOICE RECOGNITION**🎙
 The biggest challenged we faced has been the voice detection and recognition. As described before the unique feature of the flower (its size, its number of petals, and the height of its stem are determined by the volume, the pitch of the user’s voice and the length of the message).
@@ -72,13 +72,13 @@ and the position of the leaves on the stem.
 Once all the data has been archived the flowers are redrawed in the homepage garden.
 Here if the user hovers with the mouse on the flowers they can visualize the name of the addressee of the flower
 
-# OUR FLOWERS🌸
+# 🌸OUR FLOWERS
    
    ![tuttifiori](tuttifiori.png)
    
 While flowers' features vary according to volume, frequency and lenght of the messsage, the specific type of the flower the message generates (as well as its color) is instead assigned randomly to a user once they access the page. To ensure visual consistency, the values each input is mapped between, are specific to the type of flower. The image shows all the options available. 
 
-# TEAM
+# 👯TEAM
 Alexandra Chiojdeanu
 Greta Cozza
 Anna Gargantini
