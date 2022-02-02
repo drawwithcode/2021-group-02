@@ -84,3 +84,8 @@ Greta Cozza,
 Anna Gargantini,
 Matteo Ligori,
 Eva Parenti.
+
+# 👨‍👧‍👦FACULTY
+Michele Mauri
+Andrea Benedetti
+Tommaso Elli
